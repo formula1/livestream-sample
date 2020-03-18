@@ -1,0 +1,6 @@
+node_modules
+hidden
+hidden.*
+temp
+.awcache
+secure
